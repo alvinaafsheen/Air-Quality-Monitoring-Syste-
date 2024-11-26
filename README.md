@@ -6,4 +6,4 @@ MQ35 Sensor
 Wires
 ESP32 
 Buzzer
-By using the Arduino Iot Application in Android We can also monitor through it.
+.By using the Arduino Iot Application in Android We can also monitor through it.
